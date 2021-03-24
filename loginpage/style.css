@@ -3,7 +3,7 @@ body{background-color:#3F5793 ;
 
     .fbphoto img{width: 250px;height: 120px; text-align: center;margin: auto;
     margin-top: 100px;}
-    input{width: 300px;height: 40px;}
+    input{width: 300px;height: 40px; border-radius: 2px;border: none;}
 .red{width: 300px;background-color: #223B73;color: azure;
     border: none; height: 40px;border-radius: 2px;}
     a{text-decoration: none ;color: azure;}
